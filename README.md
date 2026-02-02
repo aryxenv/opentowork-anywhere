@@ -1,6 +1,6 @@
 # #OPENTOWORK anywhere
 
-**Available Online**: https://www.l145.be/opentowork-anywhere/
+**Available Online**: https://www.aryxenv.dev/opentowork-anywhere/
 
 Become a true LinkedIn sweat by making your open to work presence known on all platforms!
 
@@ -17,22 +17,23 @@ Transform your profile pictures into professional #OpenToWork images with this s
 To get started with #OPENTOWORK anywhere web app (Locally), follow these steps:
 
 ### Clone the Repository:
+
 1. Clone the GitHub repository:
-    ```bash
-    git clone https://github.com/l145dev/opentowork-anywhere.git
-    ```
+   ```bash
+   git clone https://github.com/aryxenv/opentowork-anywhere.git
+   ```
 2. Navigate to the project directory:
-    ```bash
-    cd opentowork-anywhere
-    ```
+   ```bash
+   cd opentowork-anywhere
+   ```
 3. Install the dependencies:
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 4. Start the development server:
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
 
 ## Usage
 
@@ -42,6 +43,6 @@ Once both frontend and backend servers are running, open your browser and naviga
 
 If you have any questions, suggestions, or just want to have a chat, feel free to reach out:
 
-- Email: business@l145.be
-- LinkedIn: [Aryan Shah](https://www.linkedin.com/in/aryan-shah-l145)
-- GitHub: [legelff](https://github.com/l145dev)
+- Email: business@aryxenv.dev
+- LinkedIn: [Aryan Shah](https://www.linkedin.com/in/aryxenv)
+- GitHub: [legelff](https://github.com/aryxenv)
